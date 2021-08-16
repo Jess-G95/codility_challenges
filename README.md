@@ -1,5 +1,8 @@
-# codility_challenges
-My solutions to the challenges on Codility (https://app.codility.com/programmers/lessons/1-iterations/)
+# Codility Challenges
+My solutions to the challenges on http://codility.com/ 
 
+https://codility.com/programmers/lessons/
+
+The solutions are not necessarily the most optimal; they are just a way for me to practice skills in Python to achieve the desired results.
 
 
