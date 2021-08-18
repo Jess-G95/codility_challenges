@@ -1,3 +1,7 @@
+'''
+Rotate an array to the right by a given number of steps.
+'''
+
 def solution(A, K):
     if len(A) == 0:
         return A

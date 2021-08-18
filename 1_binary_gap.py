@@ -1,3 +1,7 @@
+'''
+Find the longest sequence of zeros between two 1s in binary representation of an integer.
+'''
+
 def solution(N):
     binary_num = str(bin(N)[2:])
     binary_gap = binary_num.split('1')
